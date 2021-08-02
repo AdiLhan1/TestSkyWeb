@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestSkyWeb</string>
+    <string name="title_home">Картинки</string>
+    <string name="title_dashboard">Логин</string>
+    <string name="title">Alejandro Escamilla</string>
+    <string name="sign">Войти</string>
+    <string name="spw">Пароль</string>
+    <string name="login">Логин</string>
+</resources>
